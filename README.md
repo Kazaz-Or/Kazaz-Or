@@ -12,7 +12,7 @@ Python, JavaScript, NodeJS, Linux, Automation, Infrastructure, Backend Developme
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-
+<img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="36" height="36" alt="Linux" />
 
 
 #### Socials
