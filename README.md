@@ -1,4 +1,3 @@
-### 👋 Hi
 
 <p align="center"><strong>Who a I?</strong></p>
 
@@ -15,6 +14,22 @@ Python, JavaScript, NodeJS, Linux, Automation, Infrastructure, Backend Developme
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="36" height="36" alt="Linux" />
+
+<br/>
+<p align="center"><b>My Setup</b>
+
+<p align="center">
+  <b>OS:</b> Ubuntu, <b>Shell:</b> ZSH: Oh My Zsh (PowerLevel10k), <b>Code Editor:</b> VSCode
+</p>
+
+<p align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969282.png" width="36" height="36" alt="Ubuntu" />
+<img src="https://cdn-icons-png.flaticon.com/512/7560/7560719.png" width="36" height="36" alt="Terminal" />
+<img src="https://user-images.githubusercontent.com/83350680/206025056-de62587a-3161-4b04-9f2a-b5598204c8e2.png" width="36" height="36" alt="VSCode" />
+</p>
+
+
+
 
 <br/>
 <p align="center"><b>Socials</b>
