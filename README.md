@@ -15,9 +15,6 @@ Python, JavaScript, NodeJS, Linux, Automation, Infrastructure, Backend Developme
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" width="36" height="36" alt="Linux" />
 
-<br/>
-<p align="center"><b>My Setup</b>
-
 <p align="center">
   <b>OS:</b> Ubuntu, <b>Shell:</b> ZSH: Oh My Zsh (PowerLevel10k), <b>Code Editor:</b> VSCode
 </p>
