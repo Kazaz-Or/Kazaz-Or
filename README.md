@@ -36,4 +36,5 @@ Python, JavaScript, NodeJS, Linux, Automation, Infrastructure, Backend Developme
 <p align="center"><b>Coding mostly with</b>
 <br/>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazaz-Or&layout=compact&theme=github_dark&hide_border=true" />
+
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazaz-or&langs_count=50&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=CSS,HTML,SCSS&count_private=true" height="198px"/>
