@@ -1,8 +1,8 @@
 
-<p align="center"><strong>Who am I?</strong></p>
 
 <p align="center">Automation Developer. Software Developer. Continuous Learner. 
 
+<br/>
 <br/>
 <p align="center"><b>Skills & Interests</b>
 
