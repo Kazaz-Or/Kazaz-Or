@@ -7,7 +7,7 @@
 <p align="center"><b>Skills & Interests</b>
 
 <p align="center">
-Python, JavaScript, NodeJS, Linux, Automation, Infrastructure, Backend Development, Quality testing.
+Python, JavaScript, NodeJS, Linux, Automation, Infrastructure, Backend Development, DevOps, Quality testing.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
